@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Habib 👋
 
-<!--
-**habibouaoutamd/habibouaoutamd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Application Security Engineer focused on Application Security, DevSecOps, security automation, and developer enablement.
 
-Here are some ideas to get you started:
+Currently serving as a functional lead for DevSecOps and Application Security initiatives, helping engineering teams build and deliver secure software at scale through security tooling, vulnerability management, automation, and secure development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Application Security
+- DevSecOps
+- Security Automation
+- Vulnerability Management
+- AI Security
+- Secure SDLC
+- Cloud Security
+- Developer Enablement
+
+## Current Focus
+
+- Building SignalBench, an AI security benchmarking platform focused on evaluating LLM safety, security, and risk.
+- Expanding expertise in AI Security and secure AI system design.
+- Studying for the CISSP certification.
+- Developing security automation and tooling to improve security program effectiveness.
+
+## Technologies
+
+**Security**
+- Veracode
+- Snyk
+- Mend
+- SonarQube
+- Black Duck
+- Cortex Cloud
+
+**Programming**
+- Python
+- JavaScript
+- Node.js
+
+**Cloud & DevOps**
+- AWS
+- GitHub
+- CI/CD
+- Docker
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/habibou/
