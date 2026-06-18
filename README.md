@@ -1,4 +1,4 @@
-# Hi, I'm Habib 👋
+# Hi, I'm Habibou 👋
 
 Senior Application Security Engineer focused on Application Security, DevSecOps, security automation, and developer enablement.
 
